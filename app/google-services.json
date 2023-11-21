@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971019349724",
+    "project_id": "unmanned-vehicle-17fbb",
+    "storage_bucket": "unmanned-vehicle-17fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971019349724:android:fac230f0617fcc40218e19",
+        "android_client_info": {
+          "package_name": "com.example.unmanned_vehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971019349724-o6d2kjuthttqf62841idkd59rmqi1u73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWS_LArwcW5-vGtGwvt-A12gZoZTPrs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971019349724-o6d2kjuthttqf62841idkd59rmqi1u73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
